@@ -8,8 +8,8 @@ fun main() {
     var reSult=addition(789,678,567,345,)
     println(reSult)
 
-    var singer: Boolean=true
-    println(singer)
+    var facts="I love to cook and eat."
+    println(facts)
 
 
 }
